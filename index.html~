@@ -7,6 +7,30 @@
         <title>HYBRID AUDIO PLAYER</title>
         <!-- data-main attribute tells require.js to load scripts/main.js after require.js loads. -->
         <!-- [if lt IE9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><! [end if] -->
+
+  <!-- Metatags -->
+
+    <meta name="generator" content="Hybrid Publishing Consortium" /> <!-- doesn’t need editing -->
+    <meta name="keywords" content="hybrid publishing consortium, audio"/> <!-- edit: each keyword separated by a comma (10 is a good number) -->
+    <meta name="description" content="The Hybrid Audio Player is a web publishing tool for creating audio based stories"/> <!-- edit: text, sentences -->
+    <!-- Dublin Core -->
+    <meta name="DC.title" content="Hybrid Audio Player"/> <!-- doesn’t need editing -->
+    <meta name="DC.contributor" content="Daniel Jackson, Loraine Furter, Simon Worthington"/> <!-- edit - one meta tag per author -->
+    <meta name="DC.creator" content="Simon Worthington" /> <!-- edit -->
+    <meta name="DC.subject" content="keywords, key phrases, or classification codes, best using controlled vocabularies"> <!-- edit: comma separated (can be more than the keywords) -->
+    <meta name="DC.description.abstract" content="The Hybrid Audio Player is a web publishing tool for creating audio based stories"/> <!-- edit: copy of the desciption -->
+    <meta name="DC.date" content="2015-10-22"/> <!-- edit: yyyy-mm-dd -->
+    <meta name="DC.type" content="audio player."/> <!-- edit: choose one -->
+    <meta name="DC.format" content="text/html"/> <!-- doesn’t need editing -->
+    <meta name="DC.language" content="eng"/> <!-- if edit ISO 639-3 standard: http://en.wikipedia.org/wiki/ISO_639:a -->
+    <meta name="DC.identifier.URL" content="http://hpa.consortium.io"/> <!-- if edit: put a url -->
+    <meta name="DC.rights" content="https://github.com/consortium/hybridaudio/blob/master/LICENCE.md"/> <!-- if edit: put a url -->
+    <meta name="DC.identifier" content="DOI"/> <!-- edit, and if no identifier it will be generated -->
+    <meta name="DC.publisher" content="Hybrid Publishing Consortium"/> <!-- edit: for each publisher a new meta tag -->
+    <meta name="DC.bibliographicCitation" content="Jackson, Daniel, Loraine Furter, and Simon Worthington. “Hybrid Audio Player.” Software Repository, October 22, 2015. https://github.com/consortium/hybridaudio.
+"/> <!-- doesn’t need editing -->
+    <link rel="SCHEMA.DC" href="http://purl.org/dc/elements/1.1/"/> <!-- doesn’t need editing -->
+
         <link href="css/normalize.css" rel="stylesheet" type="text/css">
         <link href="css/style.css" rel="stylesheet" type="text/css">
         <link href="css/audio.css" rel="stylesheet" type="text/css">
@@ -34,6 +58,7 @@
     </div>
     <div class="toc-item">
         <p style="margin-bottom: 30px;"><a href="about.html">about</a></p>
+<p style="margin-bottom: 30px;">Open Source software brought to you by the Hybrid Publishing Consortium</p>
     </div>
 
     </body>
