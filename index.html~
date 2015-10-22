@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>HYBRID AUDIO PLAYER</title>
+        <!-- data-main attribute tells require.js to load scripts/main.js after require.js loads. -->
+        <!-- [if lt IE9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><! [end if] -->
+        <link href="css/normalize.css" rel="stylesheet" type="text/css">
+        <link href="css/style.css" rel="stylesheet" type="text/css">
+        <link href="css/audio.css" rel="stylesheet" type="text/css">
+    </head>
+
+    <body>
+        <h1>Hybrid<br />Player<br />Audio</h1>
+    <p style="text-align: center; margin-top:10px;"><img style="width:140px; margin: 10px 0;" src="img-player/accueil_ville.png" /></p>
+
+    <div class="toc-item">
+        <a href="histoires.html"><p>histories</p>
+        <p style="text-align: center; margin-top: -10px;"><img style="width:180px;" src="img-player/accueil_histoires.png" /></p></a>
+    </div>
+    <div class="toc-item">
+        <a href="images.html"><p>images</p>
+        <p style="text-align: center; margin-top:10px;"><img style="width:180px;" src="img-player/accueil_images.png" /></p></a>
+    </div>
+    <div class="toc-item">
+        <a href="sons.html"><p>sounds</p>
+        <p style="text-align: center; margin-top:10px;"><img style="width:180px;" src="img-player/accueil_sons.png" /></p></a>
+    </div>
+    <div class="toc-item">
+        <a href="cartes.html"><p>maps</p>
+        <p style="text-align: center; margin:10px 20px;"><img style="width:180px;" src="img-player/accueil_cartes.png" /></p></a>
+    </div>
+    <div class="toc-item">
+        <p style="margin-bottom: 30px;"><a href="about.html">about</a></p>
+    </div>
+
+    </body>
+</html>
