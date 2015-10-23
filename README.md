@@ -8,7 +8,7 @@ HPA is open source and the GitHub repository has been designed for you to downlo
 
 ## Demo site
 
-View our Hybrid Player Audion here (link to follow SW)
+View the Hybrid Player Audio demo here (link to follow SW)
 
 ## Philosophy
 
