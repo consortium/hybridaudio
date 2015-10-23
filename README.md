@@ -23,7 +23,7 @@ See instructions here (to follow SW)
 ## Getting Started
 
 * Download this [repository] (https://github.com/consortium/hybrid_player_audio)
-* Read our step-by-step setup guide below
+* Read our step-by-step setup guide [below] (https://github.com/consortium/hybrid_player_audio/blob/master/README.md#step-by-step-setup-guide)
 * Take a gander at some existing prototype [sites](https://github.com/consortium/hybrid_player_audio/wiki/Sites)
 * Fork and contribute your own modifications
 * Have questions? Check out the GitHub [issues page](https://github.com/consortium/hybrid_player_audio/issues) or [`#Consortium`on irc.consortium.io](https://irc.consortium.io/)
