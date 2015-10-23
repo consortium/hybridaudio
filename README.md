@@ -39,6 +39,13 @@ See instructions here (to follow SW)
 ## Hybrid Player 
 
 ## Thanks
+
+HPA has been developed in a rapid prototyping workshop called 'Hidden Histories, Public Libraries' taking place at iMal in Brussels. Two museums took part in the workshop to experiment with material from earlier exhibitions and audio collections to try out making web publications and exploring public engagments ideas.
+
+Hidden Histories, Public Libraries addresses collective digital reading experiences in the public space. With a set of DIY and Open Source tools to publish and access documents in situated locations, the project invites the visitor to participate in its interrogations: in the streets, the user can connected mobile devices to extend the tradition of collective reading experiences? How can people share materials and generate new urban imaginarites? How to enable hidden histories to re-emerge?
+
+Discover sounds, images and other documents from the Brussels' past and the present through your mobile phone and the Hybrid Player application.
+
 HPA rapid prototype and workshop (October 2015) has taken place as part of the Hidden Histories, Public Libraries project and has been made possible by the support of [xm:lab](http://www.xmlab.org/), [Hybrid Publishing Group](http://hpg.io/), in the framework of [Connecting Cities](http://www.imal.org/connectingcities2015) in collaboration with [BNA-BBOT](http://www.bna-bbot.be/) and [La Fonderie](http://www.lafonderie.be/).
 
 Hidden Histories, Public Libraries is commissioned by [Medialab Prado](http://medialab-prado.es/?lang=en) in the framework of Connecting Cities.
