@@ -14,7 +14,12 @@ HPA is a version of the Hybrid Player framework which is aimed at making mobile 
 
 There is an option to run your HPA publication on its own offline server, using a Rasberry Pi mini computer. The Rasberry Pi creates a local wifi network with browser capture, so as soon as a person logs onto the wifi network their web browser shows your HPA publication.
 
-See instructions here
+See instructions here (to follow SW)
 
 ## Getting Started
 
+* Download
+* Read our step-by-step setup guide
+* Take a gander at some existing prototype [Sites](https://wiki.github.com/jekyll/jekyll/sites)
+* Fork and contribute your own modifications
+* Have questions? Check out the GitHub [issues page](https://github.com/consortium/hybrid_player_audio/issues) or [`#Consortium`on irc.consortium.io](https://irc.consortium.io/)
