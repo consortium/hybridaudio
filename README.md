@@ -39,5 +39,11 @@ See instructions here (to follow SW)
 ## Hybrid Player 
 
 ## Thanks
+HPA rapid prototype and workshop (October 2015) has taken place as part of the Hidden Histories, Public Libraries project and has been made possible by the support of [xm:lab](http://www.xmlab.org/), [Hybrid Publishing Group](http://hpg.io/), in the framework of [Connecting Cities](http://www.imal.org/connectingcities2015) in collaboration with [BNA-BBOT](http://www.bna-bbot.be/) and [La Fonderie](http://www.lafonderie.be/).
+
+Hidden Histories, Public Libraries is commissioned by [Medialab Prado](http://medialab-prado.es/?lang=en) in the framework of Connecting Cities.
+With the support of the Culture Programme 2007-2013 of the European Union and Fédération Wallonie-Bruxelles.
+
+Hidden Histories, Public Libraries is presented in Brussels by iMAL, in the framework of [In/Visible City 2015](http://www.connectingcities.net/city-vision/visible-city-2015) and [Festival des Arts Numériques](http://www.laquinzainenumerique.be/).
 
 ## Roadmap
