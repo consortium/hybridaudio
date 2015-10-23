@@ -6,6 +6,10 @@ The Hybrid Player Audio is a media player designed for audio based web publicati
 
 HPA is open source and the GitHub repository has been designed for you to download and start making your own web publication.
 
+## Demo site
+
+View our Hybrid Player Audion here (link to follow SW)
+
 ## Philosophy
 
 HPA is a version of the Hybrid Player framework which is aimed at making mobile first and browser based publishing tools for different contexts; lectures, archive publishing, reading etc. The Hybrid Player framework allows for deeping linking, which means you can reference and link to points in any media used. HPA believes in creating platform indepenent content, which is achieved by using open standards and open technologies; HTML5, XML, CSS and Javascript.
@@ -18,8 +22,8 @@ See instructions here (to follow SW)
 
 ## Getting Started
 
-* Download this repository
-* Read our step-by-step setup guide
+* Download this [repository] (https://github.com/consortium/hybrid_player_audio)
+* Read our step-by-step setup guide below
 * Take a gander at some existing prototype [sites](https://github.com/consortium/hybrid_player_audio/wiki/Sites)
 * Fork and contribute your own modifications
 * Have questions? Check out the GitHub [issues page](https://github.com/consortium/hybrid_player_audio/issues) or [`#Consortium`on irc.consortium.io](https://irc.consortium.io/)
