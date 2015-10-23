@@ -38,6 +38,8 @@ See instructions here (to follow SW)
 
 ## Hybrid Player 
 
+The Hybrid Player (HP) technology has been in development since February 2015 as a partnership between the Hybrid Publishing Group, Hybrid Publishing Consortium and AVCO ltd. The development process has been led by rapid prototyping publishing projects. First as the '[McLuhan Hybrid Player](https://mcluhan.consortium.io/)' first released at Libre Graphics Meeting in Toronto in April 2015, followed by a workshop at Medialab Prado as 'Hidden Histories, Public Libraries' in June 2015 exploring possibilities of the use of outdoor media screens and Zotero library management. HP is aimed at developing new interfaces for media publishing in the browser.
+
 ## Thanks
 
 HPA has been developed in a rapid prototyping workshop called 'Hidden Histories, Public Libraries' taking place at iMal in Brussels. Two museums took part in the workshop to experiment with material from earlier exhibitions and audio collections to try out making web publications and exploring public engagments ideas.
