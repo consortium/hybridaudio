@@ -6,7 +6,7 @@ By Daniel Jackson, Lorain Furter, Simon Worthington and many more great people a
 
 The Hybrid Player Audio is a media player designed for audio based web publications that can include images, texts and maps. Hybrid Player Audio (HPA) is a lightweight framework that allows deep linking of all the media used and a timeline along which the media can be synchronised. For example HPA can be used create a slide show to accompany audio playback and have text sycronised to follow the audio. 
 
-HPA is currently in a proof of concept rapid prototyping phase as of October 2015.
+HPA is currently in a proof of concept rapid prototyping phase as of October 2015. If you like the player and would like to run a workshop or rapid prototyping publishing project please get in touch simon@hpg.io
 
 HPA is open source and the GitHub repository has been designed for to be download to enable the making your own web publication.
 
@@ -54,5 +54,3 @@ Hidden Histories, Public Libraries is commissioned by [Medialab Prado](http://me
 With the support of the Culture Programme 2007-2013 of the European Union and Fédération Wallonie-Bruxelles.
 
 Hidden Histories, Public Libraries is presented in Brussels by iMAL, in the framework of [In/Visible City 2015](http://www.connectingcities.net/city-vision/visible-city-2015) and [Festival des Arts Numériques](http://www.laquinzainenumerique.be/).
-
-## Roadmap
