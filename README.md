@@ -10,4 +10,11 @@ HPA is open source and the GitHub repository has been designed for you to downlo
 
 HPA is a version of the Hybrid Player framework which is aimed at making mobile first and browser based publishing tools for different contexts; lectures, archive publishing, reading etc. The Hybrid Player framework allows for deeping linking, which means you can reference and link to points in any media used. HPA believes in creating platform indepenent content, which is achieved by using open standards and open technologies; HTML5, XML, CSS and Javascript.
 
+## HPA on Rasberry Pi - offline Wifi serving
+
+There is an option to run your HPA publication on its own offline server, using a Rasberry Pi mini computer. The Rasberry Pi creates a local wifi network with browser capture, so as soon as a person logs onto the wifi network their web browser shows your HPA publication.
+
+See instructions here
+
+## Getting Started
 
