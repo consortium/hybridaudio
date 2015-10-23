@@ -1,6 +1,6 @@
 # Hybrid Player Audio
 
-By Daniel Jackson, Lorain Furter and Simon Worthington and many more associated to the Hybrid Publishing Consortium.
+By Daniel Jackson, Lorain Furter, Simon Worthington and many more great people associated to the Hybrid Publishing Consortium.
 
 The Hybrid Player Audio is a media player designed for audio based web publications that also includes images, texts and maps. Hybrid Player Audio (HPA) is a lightweight framework that allows deep linking of all the media used and a timeline along which the media can be syscronised. For example HPA can be used create a slide show to accompany audio playback and have text sycronised to follow the audio.
 
@@ -27,3 +27,9 @@ See instructions here (to follow SW)
 * Take a gander at some existing prototype [sites](https://github.com/consortium/hybrid_player_audio/wiki/Sites)
 * Fork and contribute your own modifications
 * Have questions? Check out the GitHub [issues page](https://github.com/consortium/hybrid_player_audio/issues) or [`#Consortium`on irc.consortium.io](https://irc.consortium.io/)
+
+## Step-by-step Setup Guide
+
+## Hybrid Player 
+
+## Thanks
