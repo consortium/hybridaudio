@@ -2,11 +2,11 @@
 
 By Daniel Jackson, Lorain Furter, Simon Worthington and many more great people associated to the Hybrid Publishing Consortium.
 
-The Hybrid Player Audio is a media player designed for audio based web publications that can include images, texts and maps. Hybrid Player Audio (HPA) is a lightweight framework that allows deep linking of all the media used and a timeline along which the media can be syscronised. For example HPA can be used create a slide show to accompany audio playback and have text sycronised to follow the audio. 
+The Hybrid Player Audio is a media player designed for audio based web publications that can include images, texts and maps. Hybrid Player Audio (HPA) is a lightweight framework that allows deep linking of all the media used and a timeline along which the media can be synchronised. For example HPA can be used create a slide show to accompany audio playback and have text sycronised to follow the audio. 
 
-HPA is currently in a proof of concept rapid prototyping phase (October 2015)
+HPA is currently in a proof of concept rapid prototyping phase as of October 2015.
 
-HPA is open source and the GitHub repository has been designed for you to download and start making your own web publication.
+HPA is open source and the GitHub repository has been designed for to be download to enable the making your own web publication.
 
 ## Demo site
 
