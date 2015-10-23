@@ -18,7 +18,7 @@ HPA is a version of the Hybrid Player framework which is aimed at making mobile 
 
 ## HPA on Rasberry Pi - offline Wifi serving
 
-There is an option to run your HPA publication on its own offline server, using a Rasberry Pi mini computer. The Rasberry Pi creates a local wifi network with browser capture, so as soon as a person logs onto the wifi network their web browser shows your HPA publication.
+There is an option to run your HPA publication on its own offline server using a Rasberry Pi (RPi) mini computer. The RPi creates a local WiFi network with browser capture, so as soon as a person logs onto the WiFi network their web browser shows your HPA publication.
 
 See instructions here (to follow SW)
 
