@@ -42,9 +42,9 @@ The Hybrid Player (HP) technology has been in development since February 2015 as
 
 ## Thanks
 
-HPA has been developed in a rapid prototyping workshop called 'Hidden Histories, Public Libraries' taking place at iMal in Brussels. Two museums took part in the workshop to experiment with material from earlier exhibitions and audio collections to try out making web publications and exploring public engagments ideas.
+HPA has been developed in a rapid prototyping workshop called 'Hidden Histories, Public Libraries' taking place at iMal in Brussels. Two museums took part in the workshop to experiment with material from earlier exhibitions and audio collections to try out making web publications and exploring ideas of public engagement.
 
-Hidden Histories, Public Libraries addresses collective digital reading experiences in the public space. With a set of DIY and Open Source tools to publish and access documents in situated locations, the project invites the visitor to participate in its interrogations: in the streets, the user can connected mobile devices to extend the tradition of collective reading experiences? How can people share materials and generate new urban imaginarites? How to enable hidden histories to re-emerge?
+Hidden Histories, Public Libraries addresses collective digital reading experiences in the public space. With a set of DIY and Open Source tools to publish and access documents in situated locations, the project invites the visitor to participate in its interrogations: in the streets, the user can connected mobile devices to extend the tradition of collective reading experiences? How can people share materials and generate new urban imaginaries? How to enable hidden histories to re-emerge?
 
 Discover sounds, images and other documents from the Brussels' past and the present through your mobile phone and the Hybrid Player application.
 
